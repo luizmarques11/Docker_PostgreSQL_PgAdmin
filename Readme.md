@@ -110,7 +110,6 @@ Docker_PostgreSQL_PgAdmin/
 ├── compose.env.example   # Modelo de variáveis de ambiente
 ├── .gitignore            # Arquivos ignorados pelo Git
 └── Readme.md             # Documentação
-
 ```
 
 ---
@@ -150,6 +149,7 @@ docker compose down
 ## 📝 Autor
 
 Feito por [Luiz Marques](https://github.com/luizmarques11).
+
 
 
 
