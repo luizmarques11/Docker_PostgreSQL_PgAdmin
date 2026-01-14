@@ -89,7 +89,7 @@ Como o PgAdmin está rodando dentro de um container Docker, ele **não** consegu
 3. Na aba **General**, dê um nome (ex: `Meu Banco Docker`).
 4. Na aba **Connection**, preencha exatamente assim:
 * **Host name/address:** `postgres`
-* *Nota: `postgres` é o nome do serviço definido dentro do arquivo `compose.yml`.*
+> *Nota: `postgres` é o nome do serviço definido dentro do arquivo `compose.yml`.*
 
 
 * **Port:** `5432`
@@ -150,5 +150,6 @@ docker compose down
 ## 📝 Autor
 
 Feito por [Luiz Marques](https://github.com/luizmarques11).
+
 
 
